@@ -1,4 +1,4 @@
-# JuliaCon website
+# SciMLCon website
 
 This repo serves the [juliacon.org]([https://juliacon.org). It is created using [Franklin.jl](https://github.com/tlienart/Franklin.jl), and is served by Github pages. 
 
