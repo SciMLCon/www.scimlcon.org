@@ -2,15 +2,15 @@
 
 We are interested in all topics that have to do with SciML, including the following incomplete list:
 
-Core package development (DifferentialEquations.jl, DiffEqFlux.jl, NeuralPDE.jl, etc.)
-Developments in SciML-adjacent packages (automatic differentiation, numerical linear algebra, analytics and visualization, optimization, etc.)
-Downstream package development (applications packages, PDE solvers developed on SciML packages, etc.)
-Applications of SciML software in sciences (biology, bioinformatics, health, medicine, finance, economics, physics, chemistry, etc.)
-Compiler and performance analyses, benchmarks
-Tutorials teaching and demonstrating the use of SciML software
-Discussions of software engineering and best practices for SciML use
-Use of SciML in industrial applications
-Novel scientific computing and SciML methodologies being prototyped in Julia
+- Core package development (DifferentialEquations.jl, DiffEqFlux.jl, NeuralPDE.jl, etc.)
+- Developments in SciML-adjacent packages (automatic differentiation, numerical linear algebra, analytics and visualization, optimization, etc.)
+- Downstream package development (applications packages, PDE solvers developed on SciML packages, etc.)
+- Applications of SciML software in sciences (biology, bioinformatics, health, medicine, finance, economics, physics, chemistry, etc.)
+- Compiler and performance analyses, benchmarks
+- Tutorials teaching and demonstrating the use of SciML software
+- Discussions of software engineering and best practices for SciML use
+- Use of SciML in industrial applications
+- Novel scientific computing and SciML methodologies being prototyped in Julia
 
 The most important consideration is whether the topic would be interesting to the SciML Open Source Software community. 
 
