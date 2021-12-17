@@ -20,7 +20,7 @@ SciMLCon presentations can range from introductory to advanced, with speakers fr
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
-  SciMLCon is [organized by a committee](/2021/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
+  SciMLCon is [organized by a committee](/2022/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
 \begin{box}{title = "Code of Conduct", color = "dark-green"}
