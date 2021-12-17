@@ -120,7 +120,28 @@
 
 <!-- Content appended here -->
 <h1 id="scimlcon_2022_registration"><a href="#scimlcon_2022_registration" class="header-anchor">SciMLCon 2022: Registration</a></h1>
-<p>Coming Soon.</p>
+
+<div id="eventbrite-widget-container-229536619207"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '229536619207',
+        iframeContainerId: 'eventbrite-widget-container-229536619207',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 <h3 id="contact_the_organizers"><a href="#contact_the_organizers" class="header-anchor">Contact the Organizers</a></h3>
 <p>Please email <a href="mailto:scimlcon@julialang.org">scimlcon@julialang.org</a> with any questions, comments or suggestions.</p>
 </div> <!-- close the container -->
