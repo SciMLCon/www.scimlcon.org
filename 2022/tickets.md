@@ -23,6 +23,8 @@
 </script>
 ~~~
 
+Having trouble ordering tickets? [Click here](https://www.eventbrite.com/e/sciml-is-a-conference-about-scientific-machine-learning-using-julia-tickets-229536619207) to be taken directly to the checkout page.
+
 ### Contact the Organizers
 
 Please email \email with any questions, comments or suggestions.
