@@ -14,7 +14,7 @@ top_subtitle = ""
 
 \begin{box}{title="SciMLCon 2022", color="purple"}
 The inaugural SciMLCon of the [Scientific Machine Learning Open Source Software Community](https://sciml.ai/) 
-is focused on the development and applications of the Julia-based SciML tooling. Check out the [call for proposals](/cfp/).
+is focused on the development and applications of the Julia-based SciML tooling. Check out the [call for proposals](/2022/cfp/).
 SciMLCon presentations can range from introductory to advanced, with speakers from industry and academia. 
 
 \end{box}
