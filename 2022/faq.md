@@ -2,16 +2,16 @@
 
 **Q: Is there financial assistance available?**
 
-A: As we have moved to a virtual conference for 2021, registration is free! Register for JuliaCon 2021 at the [tickets page](/2021/tickets/).
+A: As we have moved to a virtual conference for 2022, registration is free! Register for SciMLCon 2022 at the [tickets page](/2022/tickets/).
 
 **Q: How can I get involved?**
 
-A: If you’re looking for ways to volunteer for JuliaCon 2021, please consider [mentoring a new speaker](https://docs.google.com/forms/d/e/1FAIpQLSf2vv8GMJhYZ8bEXNFQVZDQmu3sLxPQmk0mNUOodM7uznvxBQ/viewform), and [virtually volunteering](https://forms.gle/ZPeUVtJKJa292tgn9).
+A: If you’re looking for ways to volunteer for JuliaCon 2022, please consider mentoring a new speaker, helping moderate, or another form of virtually volunteering. Feel free to email us `scimlcon@julialang.org`.
 
 **Q: I haven’t presented before. Is there support/guidance available?**
 
-A: Yes! We have mentors available to help with submissions as well as presenting. [Request a mentor](https://docs.google.com/forms/d/e/1FAIpQLScS8-y8PgWa9lRF7yhBAU0bkruEvTsBF2weX_PhDXHr9Civ_A/viewform?usp=sf_link).
+A: Yes! We have mentors available to help with submissions as well as presenting. Please email us to request a mentor `scimlcon@julialang.org`.
 
-**Q: I don’t know anyone who will be attending JuliaCon 2021. Will there be any social event(s) where I can network and make friends?**
+**Q: I don’t know anyone who will be attending SciMLCon 2022. Will there be any social event(s) where I can network and make friends?**
 
-A: Yes! Please stay tuned for some fun social events we are planning, such as a buddy program and speaker social. We want to make JuliaCon a rewarding and fun experience for you!
+A: Yes! Please stay tuned for some fun social events we are planning. We want to make SciMLCon a rewarding and fun experience for you!
