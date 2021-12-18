@@ -30,11 +30,11 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 - Try not to assume familiarity with your subject when writing the abstract; the average reader is most likely not an expert in your area of expertise.
 - Avoid opaque titles; while witty titles are good, an informative title is essential. Note you will have a chance to tweak the title after being accepted.
 - Avoid infomercials; while we love to hear how you use SciML in your company, SciMLCon is not the place to sell your product.
-- If you want feedback before submitting a proposal or if you are interested in the mentorship program, contact us at `scimlcon@julialang.org` well ahead of the deadline.  If you are interested in mentoring, please also email us.
+- If you want feedback before submitting a proposal or if you are interested in the mentorship program, contact us at \email well ahead of the deadline.  If you are interested in mentoring, please also email us.
 
 If you have doubts about becoming a speaker, check out the website [We are all awesome](http://weareallaweso.me/). 
 
-We look forward to your proposals and to seeing you at SciMLCon 2021!
+We look forward to your proposals and to seeing you at SciMLCon 2022!
 
 ## Submission process
 
@@ -42,4 +42,4 @@ We are using an anonymized submissions process, to avoid selection bias related 
 
 ## Recordings and materials
 
-We plan to video record all talks and will make them available after the conference. We do this for those who cannot attend. If you are uncomfortable with having your talk recorded, however, please contact `scimlcon@julialang.org`; being recorded is not a requirement to attend SciMLCon or to give a presentation. Finally, we also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
+We plan to video record all talks and will make them available after the conference. We do this for those who cannot attend. If you are uncomfortable with having your talk recorded, however, please contact \email ; being recorded is not a requirement to attend SciMLCon or to give a presentation. Finally, we also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
