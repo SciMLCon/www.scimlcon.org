@@ -9,6 +9,7 @@ We are interested in all topics that have to do with SciML, including the follow
 - Compiler and performance analyses, benchmarks
 - Tutorials teaching and demonstrating the use of SciML software
 - Discussions of software engineering and best practices for SciML use
+- Benchmarking of SciML software in applications or between methods
 - Use of SciML in industrial applications
 - Novel scientific computing and SciML methodologies being prototyped in Julia
 
