@@ -5,7 +5,7 @@ We invite your organization to be a sponsor of SciMLCon 2022.
 
 SciMLCon is the largest annual conference organized around Open Source Scientific Machine learning in Julia, the fastest high-performance open source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics and more.
 
-This is our innagural year of SciMLCon. However, SciMLCon is run and created by the same community which hosts JuliaCon.
+This is our inaugural year of SciMLCon. However, SciMLCon is run and created by the same community which hosts JuliaCon.
 In 2021, over 20,000 users from 115 countries registered for JuliaCon, and over 42,000 watched the conference talks during the week of the event.
 SciMLCon therefore offers you the unique opportunity to present your company and your product to a worldwide audience of engaged scientific programmers.
 
