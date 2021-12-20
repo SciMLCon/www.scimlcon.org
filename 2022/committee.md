@@ -1,4 +1,4 @@
-# JuliaCon 2021 Organizing Committee
+# SciMLCon 2021 Organizing Committee
 
 Coming soon.
 ---

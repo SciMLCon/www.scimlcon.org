@@ -1,8 +1,8 @@
 # Call for Proposals
 
-The [Call for Proposals (CFP) is currently open](https://pretalx.com/scimlcon2022/cfp) and closes Janurary 31st.
+The [Call for Proposals (CFP) is currently open](https://pretalx.com/scimlcon2022/cfp) and closes January 31st.
 
-We are interested in all topics that have to do with SciML, including the following incomplete list:
+We are interested in all topics that have to do with SciML, including but not limited to topics such as:
 
 - Core package development (DifferentialEquations.jl, DiffEqFlux.jl, NeuralPDE.jl, etc.)
 - Developments in SciML-adjacent packages (automatic differentiation, numerical linear algebra, analytics and visualization, optimization, etc.)
@@ -38,8 +38,12 @@ We look forward to your proposals and to seeing you at SciMLCon 2022!
 
 ## Submission process
 
-We are using an anonymized submissions process, to avoid selection bias related to the speaker. While enforcing double blind is impossible since most submissions should link to public open source code, all efforts are made to ensure impartial review of submissions. The [CFP is currently live](https://pretalx.com/scimlcon2022/cfp) and you can find more details on the review proccess, ways to create a strong proposal, and more there!
+We are using an anonymized submissions process, to avoid selection bias related to the speaker.
+While enforcing double blind is impossible since most submissions should link to public open source code, all efforts are made to ensure impartial review of submissions.
+The [CFP is currently live](https://pretalx.com/scimlcon2022/cfp) and you can find more details on the review proccess, ways to create a strong proposal, and more there!
 
 ## Recordings and materials
 
-We plan to video record all talks and will make them available after the conference. We do this for those who cannot attend. If you are uncomfortable with having your talk recorded, however, please contact \email ; being recorded is not a requirement to attend SciMLCon or to give a presentation. Finally, we also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
+We plan to video record all talks and will make them available after the conference. We do this for those who cannot attend.
+However, if you are uncomfortable with having your talk recorded, please contact \email; being recorded is not a requirement to attend SciMLCon or to give a presentation.
+Finally, we also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
