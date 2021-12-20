@@ -1,6 +1,6 @@
 # SciMLCon 2022: Registration
 
-Tickets for SciMLCon 2022 are **free but registration is required**. We also ask that if you have the means, you donate by "buying" a ticket below. 
+Tickets for SciMLCon 2022 are **free**, but **registration is required**. If you have the means, please buy a ticket instead or donate any amount of your choice below.
 
 ~~~
 <div id="eventbrite-widget-container-229536619207"></div>
