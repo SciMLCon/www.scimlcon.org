@@ -45,12 +45,15 @@ SciMLCon is dedicated to providing a positive conference experience for all atte
 \begin{centered}{title="Gold"}
 
   \sponsor{link="https://chanzuckerberg.com", img="/assets/2022/img/sponsors/Chan_Zuckerberg_Initiative.png", name="NumFOCUS", level=2}
+  \sponsor{link="https://juliacomputing.com", img="/assets/2022/img/sponsors/jclogo.png", name="NumFOCUS", level=2}
+
 
 \end{centered}
 
 \begin{centered}{title="With the help of the SciML project’s fiscal sponsor:"}
 
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
+  
 
 \end{centered}
 
