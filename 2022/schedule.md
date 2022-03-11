@@ -8,7 +8,7 @@
 | 10:10AM - 10:30AM | [Neural ODEs in Hydrology](/2022/talks#hydrology) | | Chris |
 | 10:30AM - 10:50AM | [Modeling Plasma Physics with NeuralPDE.jl](/2022/talks#neuralplasma) | | Chris |
 | 10:50AM - 11:00AM | Break | | | |
-| 11:00AM - 11:40AM | [Keynote](/2022/talks#keynote) | | Sam |
+| 11:00AM - 11:40AM | [Keynote - Andreas Rößler](/2022/talks#keynote) | | Sam |
 | 11:40AM - 12:00PM | [Internals of ModelingToolkit](/2022/talks#mtkinternals) | | Sam |
 | 12:20PM - 12:40PM | [Symbolic arrays: Past, Present and Future](/2022/talks#symbolicarrays) | | Sam |
 | 12:40PM - 1:00PM | [Structural Identifiability Tools in Julia: A Tutorial](/2022/talks#structuralid) |  | Sam |

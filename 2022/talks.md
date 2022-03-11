@@ -60,7 +60,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:*
+    *About:* Dr. Andreas Rößler is a professor of mathematics at the Institute of Mathematics at Universität zu Lübeck. His research interests include numerical methods for stochastic ordinary differential equations (SODEs), stochastic partial differential equations (SPDEs), stochastic differential algebraic equations (SDAEs), and stochastic Runge-Kutta methods.
 
 {{anchor mtkinternals}}
 * **Internals of ModelingToolkit**
