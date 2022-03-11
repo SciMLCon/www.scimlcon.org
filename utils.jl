@@ -72,3 +72,7 @@ end
             </div>
             """)
 end
+
+function hfun_anchor(id)
+    return """<a id=\"$(id[1])\"></a>"""
+end

@@ -25,8 +25,8 @@ top_subtitle = ""
 SciMLCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin. We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form. For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions. Conference participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers. Our anti-harassment policy can be found [here](https://juliacon.org/2020/coc).
 \end{box}
 
-\begin{box}{title="Schedule", color="red"}
-  The schedule is now available [here](/2022/schedule).
+\begin{box}{title="Talks and Schedule", color="red"}
+  The list of [talks](/2022/talks) and the [schedule](/2022/schedule) are now available. Check them out!
 \end{box}
 
 ~~~
