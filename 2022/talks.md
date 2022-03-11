@@ -183,7 +183,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
     *Abstract:* Implicit deep learning architectures separate the definition of a layer from the description of its solution process. While implicit layers allow features such as depth to adapt to new scenarios and inputs automatically, this adaptivity makes its computational expense challenging to predict. In this talk, we present a framework way to simultaneously achieve the robustness of implicit layers while allowing the reduced computational expense of explicit models.
 
 {{anchor speeding}}
-* **Speeding up `x = A\b` with RandomizedPreconditioners.jl**
+* **Speeding up x = A&#92;b with RandomizedPreconditioners.jl**
 
     *Time:* 4:40PM - 5:00PM
 
