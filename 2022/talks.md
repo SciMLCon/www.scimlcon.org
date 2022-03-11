@@ -20,7 +20,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* ClimaCore.jl is a toolkit for spatially discretizing PDEs into systems of ODEs, with a particular emphasis on the needs of Earth system models (ESMs). Due to the skewed aspect ratio and the effects of gravity and Earth's rotation in such models, the resulting systems of ODEs tend to be very stiff in the vertical direction, requiring the use of implicit-explicit (IMEX) solvers. This talk will describe our efforts to implement and integrate our work with the SciML ecosystem.
+    *Abstract:* [ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl) is a toolkit for spatially discretizing PDEs into systems of ODEs, with a particular emphasis on the needs of Earth system models (ESMs). Due to the skewed aspect ratio and the effects of gravity and Earth's rotation in such models, the resulting systems of ODEs tend to be very stiff in the vertical direction, requiring the use of implicit-explicit (IMEX) solvers. This talk will describe our efforts to implement and integrate our work with the SciML ecosystem.
 
 {{anchor pumas}}
 * **Understanding heterogeneous health outcomes with SciML and Pumas**
@@ -29,7 +29,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* What is driving disease progression, what effect does a drug have, and why do different patients have different outcomes? At Pumas-AI, we are mixing SciML with statistical and dynamical modelling to predict and optimise patient outcomes. Here, we explore the ideas of SciML within healthcare and demonstrate how it can be used to not only help develop dynamical models of disease progression and drug effect but also to predict variations in outcomes based on patient information.
+    *Abstract:* What is driving disease progression, what effect does a drug have, and why do different patients have different outcomes? At [Pumas-AI](https://pumas.ai), we are mixing SciML with statistical and dynamical modelling to predict and optimise patient outcomes. Here, we explore the ideas of SciML within healthcare and demonstrate how it can be used to not only help develop dynamical models of disease progression and drug effect but also to predict variations in outcomes based on patient information.
 
 {{anchor hydrology}}
 * **Neural ODEs in Hydrology**
@@ -47,7 +47,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* Plasmas – the so-called fourth state of matter – are notoriously difficult to model. The equations that describe it are high dimensional and non-linear. In this talk, I will walk through how I built Plasma.jl – an application package that uses NeuralPDE.jl to simulate plasmas with neural networks. I will share results and what I learned contributing to NeuralPDE, optimizing the solver for a specific application, and creating an intuitive interface.
+    *Abstract:* Plasmas – the so-called fourth state of matter – are notoriously difficult to model. The equations that describe it are high dimensional and non-linear. In this talk, I will walk through how I built [Plasma.jl](https://github.com/killah-t-cell/Plasma.jl) – an application package that uses [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) to simulate plasmas with neural networks. I will share results and what I learned contributing to NeuralPDE, optimizing the solver for a specific application, and creating an intuitive interface.
 
 ## Late-morning Section
 
@@ -69,7 +69,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* Diving into acausal modeling and internal algorithms of ModelingToolkit.jl. In this talk, we will cover various structural simplification algorithms used in ModelingToolkit.jl and the future development goals of ModelingToolkit.
+    *Abstract:* Diving into acausal modeling and internal algorithms of [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl). In this talk, we will cover various structural simplification algorithms used in ModelingToolkit.jl and the future development goals of ModelingToolkit.
 
     ModelingToolkit.jl (MTK) enables researchers to formulate complex models in an easy-to-understand declarative manner. It can not only automatically lower those high-level models into efficient Julia code, along the way, MTK also optimizes differential-algebraic equations (DAEs) mathematically by reducing the number of algebraic equations and lowering the index of DAEs to 1. Those optimizations will drastically improve the simulation time of acausal models. In this talk, we will first talk about the motivation for using DAEs and acausal modeling before diving into the internal algorithms of MTK such as alias elimination, Pantelides algorithm, and tearing.
 
@@ -89,7 +89,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* In this tutorial, we will consider the problem of structural parameter identifiability, a property that can allow us to know in advance whether a model's parameters can be determined uniquely, up to finitely many values, or not at all. We will consider two Julia solutions to the problem, SIAN.jl and StructuralIdentifiability.jl. Specifically, we will go over their basic functionality, comparison on several benchmarks, and how they can be used with other SciML packages such as ModelingToolkit.jl.
+    *Abstract:* In this tutorial, we will consider the problem of structural parameter identifiability, a property that can allow us to know in advance whether a model's parameters can be determined uniquely, up to finitely many values, or not at all. We will consider two Julia solutions to the problem, [SIAN.jl](https://github.com/alexeyovchinnikov/SIAN-Julia) and [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl). Specifically, we will go over their basic functionality, comparison on several benchmarks, and how they can be used with other SciML packages such as [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl).
 
 {{anchor parallel}}
 * **Parallel Extrapolation Methods for Differential Equations**
@@ -162,7 +162,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* As the generalization of classical calculus and differential equations, fractional order calculus and differential equations are important areas that SciML has not supported, to provide a comprehensive Differential Equations package, we implemented many powerful FDE solvers. In this SciMLCon, we will talk about the progress we have taken in FractionalDiffEq.jl and FractionalCalculus.jl, how Julia helped us speed up fractional order modeling and computing,  and our plans to connect with SciML. 
+    *Abstract:* As the generalization of classical calculus and differential equations, fractional order calculus and differential equations are important areas that SciML has not supported, to provide a comprehensive Differential Equations package, we implemented many powerful FDE solvers. In this SciMLCon, we will talk about the progress we have taken in [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl) and [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), how Julia helped us speed up fractional order modeling and computing,  and our plans to connect with SciML. 
 
 {{anchor derivatives}}
 * **Computing derivatives for chaotic and hybrid systems**
@@ -189,7 +189,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Speaker:*
 
-    *Abstract:* We will introduce RandomizedPreconditioners.jl, a package for preconditioning linear systems using randomized numerical linear algebra. Crucially, our preconditioners do not require a priori knowledge of structure present in the linear system, making them especially useful for general-purpose algorithms. We will demonstrate significant speedups of positive semidefinite linear system solves, which appear in many machine learning and optimization problems.
+    *Abstract:* We will introduce [RandomizedPreconditioners.jl](https://github.com/tjdiamandis/RandomizedPreconditioners.jl), a package for preconditioning linear systems using randomized numerical linear algebra. Crucially, our preconditioners do not require a priori knowledge of structure present in the linear system, making them especially useful for general-purpose algorithms. We will demonstrate significant speedups of positive semidefinite linear system solves, which appear in many machine learning and optimization problems.
 
 {{anchor bifml}}
 * **Bifurcation based machine learning of dynamical systems**
