@@ -2,7 +2,7 @@
 
 | Time (EST) | Plan | Speaker | Chair |
 | :--- | :--- | :--- | :--- |
-| 9:00AM - 9:30AM | [Introduction and State of SciML](/2022/talks#intro) | Chris Rackauckas | N/A |
+| 9:00AM - 9:30AM | [Introduction and State of SciML](/2022/talks#intro) | Chris Rackauckas | |
 | 9:30AM - 9:50AM | [SciML for Climate: Integrating ClimaCore.jl with OrdinaryDiffEq](/2022/talks#climacore) | | Chris |
 | 9:50AM - 10:10AM | [Understanding heterogeneous health outcomes with SciML and Pumas](/2022/talks#pumas) | | Chris |
 | 10:10AM - 10:30AM | [Neural ODEs in Hydrology](/2022/talks#hydrology) | | Chris |
@@ -25,6 +25,6 @@
 | 4:20PM - 4:40PM | [Mixing Implicit and Explicit Deep Learning with Skip DEQs](/2022/talks#mixingimex) | | |
 | 4:40PM - 5:00PM | [Speeding up x = A&#92;b with RandomizedPreconditioners.jl](/2022/talks#speeding) | | |
 | 5:00PM - 5:20PM | [Bifurcation based machine learning of dynamical systems](/2022/talks#bifml) | | |
-| 5:20PM - 6:00PM | [Farewell -> Open Discussion](/2022/talks#farewell) | Chris Rackauckas | N/A |
+| 5:20PM - 6:00PM | [Farewell -> Open Discussion](/2022/talks#farewell) | Chris Rackauckas | |
 			
 Talks are 20 minutes long, including 5 minutes allocated for questions from the audience.
