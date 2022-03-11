@@ -140,16 +140,6 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Abstract:*
 
-{{anchor operatorflux}}
-* **OperatorFlux.jl - Learning operators from data with Julia**
-
-    *Time:* 2:50PM - 3:10PM
-
-    *Speaker:*
-
-    *Abstract:*
-
-
 ## Late-afternoon Section
 
 **Chair:**
@@ -157,7 +147,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor peds}}
 * **Physics-enhanced deep surrogates (PEDS) trained end-to-end** (Invited Talk 2)
 
-    *Time:* 3:20PM - 4:00PM
+    *Time:* 3:20PM - 3:40PM
 
     *Speaker:* Raphael Pestourie
 
@@ -166,7 +156,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor fractional}}
 * **Fractional Order Computing and Modeling with Julia**
 
-    *Time:*  4:00PM - 4:20PM
+    *Time:*  3:40PM - 4:00PM
 
     *Speaker:*
 
@@ -175,7 +165,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor derivatives}}
 * **Computing derivatives for chaotic and hybrid systems**
 
-    *Time:* 4:20PM - 4:40PM
+    *Time:* 4:00PM - 4:20PM
 
     *Speaker:*
 
@@ -184,7 +174,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor mixingimex}}
 * **Mixing Implicit and Explicit Deep Learning with Skip DEQs**
 
-    *Time:* 4:40PM - 5:00PM
+    *Time:* 4:20PM - 4:40PM
 
     *Speaker:*
 
@@ -193,7 +183,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor speeding}}
 * **Speeding up `x = A\b` with RandomizedPreconditioners.jl**
 
-    *Time:* 5:00PM - 5:20PM
+    *Time:* 4:40PM - 5:00PM
 
     *Speaker:*
 
@@ -202,7 +192,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor bifml}}
 * **Bifurcation based machine learning of dynamical systems**
 
-    *Time:* 5:20PM - 5:40PM
+    *Time:* 5:00PM - 5:20PM
 
     *Speaker:*
 
@@ -211,7 +201,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 {{anchor farewell}}
 * **Farewell -> Open Discussion**
 
-    *Time:* 5:40PM - 6:00PM
+    *Time:* 5:20PM - 6:00PM
 
     *Speaker:* Chris Rackauckas
 

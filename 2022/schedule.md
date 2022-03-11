@@ -18,14 +18,13 @@
 | 1:50PM - 2:10PM	| [Learning measured bifurcation diagrams with UDEs](/2022/talks#udesbif) |  | Ranjan |
 | 2:10PM - 2:30PM	 | [Universal Differential Equations with Gaussian Processes](/2022/talks#udegaussian) | | Ranjan |
 | 2:30PM - 2:50PM	| [Role of Universal Differential Equations in Epidemiology](/2022/talks#udeepidemiology) |  | Ranjan |
-| 2:50PM - 3:10PM	| [OperatorFlux.jl - Learning operators from data with Julia](/2022/talks#operatorflux) |  | Ranjan |
-| 3:10PM - 3:20PM	| Break | | |
-| 3:20PM - 4:00PM	| [Invited Talk 2: Physics-enhanced deep surrogates (PEDS) trained end-to-end](/2022/talks#peds) | Raphael Pestourie | |
-| 4:00PM - 4:20PM | [Fractional Order Computing and Modeling with Julia](/2022/talks#fractional) | | |
-| 4:20PM - 4:40PM | [Computing derivatives for chaotic and hybrid systems](/2022/talks#derivatives) | | |
-| 4:40PM - 5:00PM | [Mixing Implicit and Explicit Deep Learning with Skip DEQs](/2022/talks#mixingimex) | | |
-| 5:00PM - 5:20PM | [Speeding up `x = A\b` with RandomizedPreconditioners.jl](/2022/talks#speeding) | | |
-| 5:20PM - 5:40PM | [Bifurcation based machine learning of dynamical systems](/2022/talks#bifml) | | |
-| 5:40PM - 6:00PM | [Farewell -> Open Discussion](/2022/talks#farewell) | Chris Rackauckas | N/A |
+| 2:50PM - 3:00PM	| Break | | |
+| 3:0PM - 3:40PM	| [Invited Talk 2: Physics-enhanced deep surrogates (PEDS) trained end-to-end](/2022/talks#peds) | Raphael Pestourie | |
+| 3:40PM - 4:00PM | [Fractional Order Computing and Modeling with Julia](/2022/talks#fractional) | | |
+| 4:00PM - 4:20PM | [Computing derivatives for chaotic and hybrid systems](/2022/talks#derivatives) | | |
+| 4:20PM - 4:40PM | [Mixing Implicit and Explicit Deep Learning with Skip DEQs](/2022/talks#mixingimex) | | |
+| 4:40PM - 5:00PM | [Speeding up `x = A\b` with RandomizedPreconditioners.jl](/2022/talks#speeding) | | |
+| 5:00PM - 5:20PM | [Bifurcation based machine learning of dynamical systems](/2022/talks#bifml) | | |
+| 5:20PM - 6:00PM | [Farewell -> Open Discussion](/2022/talks#farewell) | Chris Rackauckas | N/A |
 			
 Talks are 20 minutes long, including 5 minutes allocated for questions from the audience.
