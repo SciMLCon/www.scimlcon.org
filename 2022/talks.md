@@ -53,7 +53,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
 ## Late-morning Section
 
-**Chair:** Sam
+**Chair:** Samual Isaacson
 
 {{anchor keynote}}
 * **Keynote**
@@ -102,7 +102,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
 ## Early-afternoon Section
 
-**Chair:** Ranjan
+**Chair:** Ranjan Anantharaman
 
 {{anchor sponsor}}
 * **Sponsor Talk**
