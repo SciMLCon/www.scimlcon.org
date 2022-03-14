@@ -15,11 +15,11 @@
 | 1:00PM - 1:20PM | [Parallel Extrapolation Methods for Differential Equations](/2022/talks#parallel) | Utkarsh | Sam |
 | 1:20PM - 1:30PM | Break  | | | 
 | 1:30PM - 1:50PM | [Sponsor Talk](/2022/talks#sponsor) | Julia Computing | Ranjan |
-| 1:50PM - 2:10PM	| [Learning measured bifurcation diagrams with UDEs](/2022/talks#udesbif) |  Sandor Beregi | Ranjan |
-| 2:10PM - 2:30PM	 | [Universal Differential Equations with Gaussian Processes](/2022/talks#udegaussian) | Steffen Ridderbusch | Ranjan |
-| 2:30PM - 2:50PM	| [Role of Universal Differential Equations in Epidemiology](/2022/talks#udeepidemiology) | Raj Dandekar | Ranjan |
-| 2:50PM - 3:00PM	| Break | | |
-| 3:0PM - 3:40PM	| [Invited Talk 2: Physics-enhanced deep surrogates (PEDS) trained end-to-end](/2022/talks#peds) | Raphael Pestourie | |
+| 1:50PM - 2:10PM | [Learning measured bifurcation diagrams with UDEs](/2022/talks#udesbif) |  Sandor Beregi | Ranjan |
+| 2:10PM - 2:30PM | [Universal Differential Equations with Gaussian Processes](/2022/talks#udegaussian) | Steffen Ridderbusch | Ranjan |
+| 2:30PM - 2:50PM | [Role of Universal Differential Equations in Epidemiology](/2022/talks#udeepidemiology) | Raj Dandekar | Ranjan |
+| 2:50PM - 3:00PM | Break | | |
+| 3:00PM - 3:40PM | [Invited Talk 2: Physics-enhanced deep surrogates (PEDS) trained end-to-end](/2022/talks#peds) | Raphael Pestourie | |
 | 3:40PM - 4:00PM | [Fractional Order Computing and Modeling with Julia](/2022/talks#fractional) | Qingyu Qu | |
 | 4:00PM - 4:20PM | [Computing derivatives for chaotic and hybrid systems](/2022/talks#derivatives) | Frank Schäfer | |
 | 4:20PM - 4:40PM | [Mixing Implicit and Explicit Deep Learning with Skip DEQs](/2022/talks#mixingimex) | Avik Pal | |
