@@ -183,7 +183,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Time:* 4:40PM - 5:00PM
 
-    *Speaker:* Theo Diamandis
+    *Speaker:* Theo Diamandis, Zach Frangella
 
     *Abstract:* We will introduce [RandomizedPreconditioners.jl](https://github.com/tjdiamandis/RandomizedPreconditioners.jl), a package for preconditioning linear systems using randomized numerical linear algebra. Crucially, our preconditioners do not require a priori knowledge of structure present in the linear system, making them especially useful for general-purpose algorithms. We will demonstrate significant speedups of positive semidefinite linear system solves, which appear in many machine learning and optimization problems.
 
