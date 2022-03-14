@@ -23,7 +23,7 @@
 | 3:40PM - 4:00PM | [Fractional Order Computing and Modeling with Julia](/2022/talks#fractional) | Qingyu Qu | |
 | 4:00PM - 4:20PM | [Computing derivatives for chaotic and hybrid systems](/2022/talks#derivatives) | Frank Schafer | |
 | 4:20PM - 4:40PM | [Mixing Implicit and Explicit Deep Learning with Skip DEQs](/2022/talks#mixingimex) | Avik Pal | |
-| 4:40PM - 5:00PM | [Speeding up x = A\\b with RandomizedPreconditioners.jl](/2022/talks#speeding) | Theo Diamandis, Zach Frangella | |
+| 4:40PM - 5:00PM | [Speeding up x = A\b with RandomizedPreconditioners.jl](/2022/talks#speeding) | Theo Diamandis, Zach Frangella | |
 | 5:00PM - 5:20PM | [Bifurcation based machine learning of dynamical systems](/2022/talks#bifml) | Kyoung Hyun Lee | |
 | 5:20PM - 6:00PM | [Farewell -> Open Discussion](/2022/talks#farewell) | Chris Rackauckas | |
 			
