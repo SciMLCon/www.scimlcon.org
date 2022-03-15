@@ -40,14 +40,15 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Abstract:* For stream flow predictions in hydrology commonly two types of models are used: deep learning models (high predictive performance) and ODE-based conceptual hydrologic models (fully interpretable, encoding scientific assumptions). We introduce hydrologic Neural ODE models that fuse both approaches and have all benefits: We obtain state-of the-art predictive performance and gain insights into the dynamics of model processes and states. We demonstrate the approach on a large real-world data set.
 
-{{anchor neuralplasma}}
-* **Modeling Plasma Physics with NeuralPDE.jl**
+{{anchor derivatives}}
+    
+* **Computing derivatives for chaotic and hybrid systems**
 
     *Time:* 10:30AM - 10:50AM
 
-    *Speaker:* Gabriel Birnbaum
+    *Speaker:* Frank Schafer
 
-    *Abstract:* Plasmas – the so-called fourth state of matter – are notoriously difficult to model. The equations that describe it are high dimensional and non-linear. In this talk, I will walk through how I built [Plasma.jl](https://github.com/killah-t-cell/Plasma.jl) – an application package that uses [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) to simulate plasmas with neural networks. I will share results and what I learned contributing to NeuralPDE, optimizing the solver for a specific application, and creating an intuitive interface.
+    *Abstract:* In this talk, we present shadowing methods for chaotic dynamical systems and continuous-adjoint sensitivity methods for hybrid differential equations modeling explicit and implicit events. The methods are implemented in the DiffEqSensitivity package. Possible fields of application for these tools range from model discovery with explicit dosing times in pharmacology, over accurate gradient estimates for chaotic fluid dynamics, to the control of open quantum systems.
 
 ## Late-morning Section
 
@@ -160,14 +161,14 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
     *Abstract:* As the generalization of classical calculus and differential equations, fractional order calculus and differential equations are important areas that SciML has not supported, to provide a comprehensive Differential Equations package, we implemented many powerful FDE solvers. In this SciMLCon, we will talk about the progress we have taken in [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl) and [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), how Julia helped us speed up fractional order modeling and computing,  and our plans to connect with SciML. 
 
-{{anchor derivatives}}
-* **Computing derivatives for chaotic and hybrid systems**
+{{anchor neuralplasma}}
+* **Modeling Plasma Physics with NeuralPDE.jl**
 
     *Time:* 4:00PM - 4:20PM
 
-    *Speaker:* Frank Schafer
+    *Speaker:* Gabriel Birnbaum
 
-    *Abstract:* In this talk, we present shadowing methods for chaotic dynamical systems and continuous-adjoint sensitivity methods for hybrid differential equations modeling explicit and implicit events. The methods are implemented in the DiffEqSensitivity package. Possible fields of application for these tools range from model discovery with explicit dosing times in pharmacology, over accurate gradient estimates for chaotic fluid dynamics, to the control of open quantum systems.
+    *Abstract:* Plasmas – the so-called fourth state of matter – are notoriously difficult to model. The equations that describe it are high dimensional and non-linear. In this talk, I will walk through how I built [Plasma.jl](https://github.com/killah-t-cell/Plasma.jl) – an application package that uses [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) to simulate plasmas with neural networks. I will share results and what I learned contributing to NeuralPDE, optimizing the solver for a specific application, and creating an intuitive interface.
 
 {{anchor mixingimex}}
 * **Mixing Implicit and Explicit Deep Learning with Skip DEQs**
