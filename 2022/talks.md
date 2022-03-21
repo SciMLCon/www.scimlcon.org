@@ -64,20 +64,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
     *Abstract:* Parts of the presentation are joint work with Claudine von Hallern (Universität Hamburg), Felix Kastner (Universität zu Lübeck)
    and Jan Mrongowius. 
    
-   In many mathematical models differential equations are used to 
-describe the fundamental dynamical system. In order to capture uncertainty
-in such models often stochastic differential equations (SDEs) are applied.
-We consider the problem of numerical simulations for SDEs.
-Therefore, we discuss the concept of stochastic Runge-Kutta methods
-that turned out to allow for efficient higher order approximation methods
-converging to the solution in the root mean square sense. Special emphasis
-is given on the simulation of the Levy area that is essential for higher
-order approximations. A new algorithm for the approximation of Levy areas
-is presented that is available as a Julia software toolbox. 
-Finally, we give a brief outlook to the simulation
-of stochastic partial differential equations (SPDEs). Here, some recent 
-results on derivative-free Milstein type approximation schemes are 
-presented.
+   In many mathematical models differential equations are used to describe the fundamental dynamical system. In order to capture uncertainty in such models often stochastic differential equations (SDEs) are applied. We consider the problem of numerical simulations for SDEs. Therefore, we discuss the concept of stochastic Runge-Kutta methods that turned out to allow for efficient higher order approximation methods converging to the solution in the root mean square sense. Special emphasis is given on the simulation of the Levy area that is essential for higher order approximations. A new algorithm for the approximation of Levy areas is presented that is available as a Julia software toolbox. Finally, we give a brief outlook to the simulation of stochastic partial differential equations (SPDEs). Here, some recent results on derivative-free Milstein type approximation schemes are presented.
      
    *About:* Dr. Andreas Rößler is a professor of mathematics at the Institute of Mathematics at Universität zu Lübeck. His research interests include numerical methods for stochastic ordinary differential equations (SODEs), stochastic partial differential equations (SPDEs), stochastic differential algebraic equations (SDAEs), and stochastic Runge-Kutta methods.
 
