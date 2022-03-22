@@ -1,6 +1,6 @@
 # Schedule
 
-| Time (EST) | Plan | Speaker | Chair |
+| Time (EDT) | Plan | Speaker | Chair |
 | :--- | :--- | :--- | :--- |
 | 9:00AM - 9:30AM | [Introduction and State of SciML](/2022/talks#intro) | Chris Rackauckas | |
 | 9:30AM - 9:50AM | [SciML for Climate: Integrating ClimaCore.jl with OrdinaryDiffEq](/2022/talks#climacore) | Dennis Yatunin | Chris |
@@ -10,6 +10,7 @@
 | 10:50AM - 11:00AM | Break | | | |
 | 11:00AM - 11:40AM | [Keynote - Andreas Rößler](/2022/talks#keynote) | Andreas Rößler | Sam |
 | 11:40AM - 12:00PM | [Internals of ModelingToolkit](/2022/talks#mtkinternals) | Yingbo Ma | Sam |
+| 12:00PM - 12:20PM | Break | | |
 | 12:20PM - 12:40PM | [Symbolic arrays: Past, Present and Future](/2022/talks#symbolicarrays) | Shashi Gowda | Sam |
 | 12:40PM - 1:00PM | [Structural Identifiability Tools in Julia: A Tutorial](/2022/talks#structuralid) | Ilia Ilmer | Sam |
 | 1:00PM - 1:20PM | [Parallel Extrapolation Methods for Differential Equations](/2022/talks#parallel) | Utkarsh | Sam |
