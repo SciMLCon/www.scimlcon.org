@@ -74,5 +74,5 @@ end
 end
 
 function hfun_anchor(id)
-    return """<a id=\"$(id[1])\"></a>"""
+    return """<a id=\"$(id[1])\" class=\"anchor\"></a>"""
 end

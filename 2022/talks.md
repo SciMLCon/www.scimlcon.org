@@ -52,7 +52,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
 
 ## Late-morning Section
 
-**Chair:** Samual Isaacson
+**Chair:** Samuel Isaacson
 
 {{anchor keynote}}
 * **Keynote:** Simulating stochastic dynamical systems with Runge-Kutta type schemes
@@ -85,7 +85,7 @@ Talks are 20 minutes long, including 5 minutes allocated for questions from the 
     *Time:* 12:20PM - 12:40PM
 
     *Speaker:* Shashi Gowda
- 
+
     *Abstract:* In this talk, I will review previous work on expressing array operations in code and the manipulation of that code itself. I will consider trade-offs between loop-based programming and vectorized array operations (as in MATLAB), then explore newer developments in packages like JAX, Dex, XLA, and finally in Julia's Symbolics package. We explore how symbolic array operations with relevant metadata allows for optimization opportunities which are unavailable in straight-forward code.
 
 {{anchor structuralid}}
