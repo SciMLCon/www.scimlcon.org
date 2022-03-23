@@ -129,14 +129,14 @@
 <p>Talks are 20 minutes long, including 5 minutes allocated for questions from the audience.	</p>
 <h2>Early-morning Section</h2>
 <p><strong>Chair:</strong> Chris Rackauckas</p>
-<a id="intro"></a>
+<a id="intro" class="anchor"></a>
 <ul>
 <li><p><strong>Introduction and State of SciML</strong></p>
 <p><em>Time:</em> 9:00AM - 9:30AM</p>
 <p><em>Speaker:</em> Chris Rackauckas</p>
 </li>
 </ul>
-<a id="climacore"></a>
+<a id="climacore" class="anchor"></a>
 <ul>
 <li><p><strong>SciML for Climate: Integrating ClimaCore.jl with OrdinaryDiffEq</strong></p>
 <p><em>Time:</em> 9:30AM - 9:50AM</p>
@@ -144,7 +144,7 @@
 <p><em>Abstract:</em> <a href="https://github.com/CliMA/ClimaCore.jl">ClimaCore.jl</a> is a toolkit for spatially discretizing PDEs into systems of ODEs, with a particular emphasis on the needs of Earth system models &#40;ESMs&#41;. Due to the skewed aspect ratio and the effects of gravity and Earth&#39;s rotation in such models, the resulting systems of ODEs tend to be very stiff in the vertical direction, requiring the use of implicit-explicit &#40;IMEX&#41; solvers. This talk will describe our efforts to implement and integrate our work with the SciML ecosystem.</p>
 </li>
 </ul>
-<a id="pumas"></a>
+<a id="pumas" class="anchor"></a>
 <ul>
 <li><p><strong>Understanding heterogeneous health outcomes with SciML and Pumas</strong></p>
 <p><em>Time:</em> 9:50AM - 10:10AM</p>
@@ -152,7 +152,7 @@
 <p><em>Abstract:</em> What is driving disease progression, what effect does a drug have, and why do different patients have different outcomes? At <a href="https://pumas.ai">Pumas-AI</a>, we are mixing SciML with statistical and dynamical modelling to predict and optimise patient outcomes. Here, we explore the ideas of SciML within healthcare and demonstrate how it can be used to not only help develop dynamical models of disease progression and drug effect but also to predict variations in outcomes based on patient information.</p>
 </li>
 </ul>
-<a id="hydrology"></a>
+<a id="hydrology" class="anchor"></a>
 <ul>
 <li><p><strong>Neural ODEs in Hydrology</strong></p>
 <p><em>Time:</em> 10:10AM - 10:30AM</p>
@@ -160,7 +160,7 @@
 <p><em>Abstract:</em> For stream flow predictions in hydrology commonly two types of models are used: deep learning models &#40;high predictive performance&#41; and ODE-based conceptual hydrologic models &#40;fully interpretable, encoding scientific assumptions&#41;. We introduce hydrologic Neural ODE models that fuse both approaches and have all benefits: We obtain state-of the-art predictive performance and gain insights into the dynamics of model processes and states. We demonstrate the approach on a large real-world data set.</p>
 </li>
 </ul>
-<a id="derivatives"></a>
+<a id="derivatives" class="anchor"></a>
 <ul>
 <li><p><strong>Computing derivatives for chaotic and hybrid systems</strong></p>
 <p><em>Time:</em> 10:30AM - 10:50AM</p>
@@ -169,8 +169,8 @@
 </li>
 </ul>
 <h2 id="late-morning_section"><a href="#late-morning_section" class="header-anchor">Late-morning Section</a></h2>
-<p><strong>Chair:</strong> Samual Isaacson</p>
-<a id="keynote"></a>
+<p><strong>Chair:</strong> Samuel Isaacson</p>
+<a id="keynote" class="anchor"></a>
 <ul>
 <li><p><strong>Keynote:</strong> Simulating stochastic dynamical systems with Runge-Kutta type schemes</p>
 <p><em>Time:</em> 11:00AM - 11:40AM</p>
@@ -180,7 +180,7 @@
 <p><em>About:</em> Dr. Andreas Rößler is a professor of mathematics at the Institute of Mathematics at Universität zu Lübeck. His research interests include numerical methods for stochastic ordinary differential equations &#40;SODEs&#41;, stochastic partial differential equations &#40;SPDEs&#41;, stochastic differential algebraic equations &#40;SDAEs&#41;, and stochastic Runge-Kutta methods.</p>
 </li>
 </ul>
-<a id="mtkinternals"></a>
+<a id="mtkinternals" class="anchor"></a>
 <ul>
 <li><p><strong>Internals of ModelingToolkit</strong></p>
 <p><em>Time:</em> 11:40AM - 12:00PM</p>
@@ -189,15 +189,15 @@
 <p>ModelingToolkit.jl &#40;MTK&#41; enables researchers to formulate complex models in an easy-to-understand declarative manner. It can not only automatically lower those high-level models into efficient Julia code, along the way, MTK also optimizes differential-algebraic equations &#40;DAEs&#41; mathematically by reducing the number of algebraic equations and lowering the index of DAEs to 1. Those optimizations will drastically improve the simulation time of acausal models. In this talk, we will first talk about the motivation for using DAEs and acausal modeling before diving into the internal algorithms of MTK such as alias elimination, Pantelides algorithm, and tearing.</p>
 </li>
 </ul>
-<a id="symbolicarrays"></a>
+<a id="symbolicarrays" class="anchor"></a>
 <ul>
 <li><p><strong>Symbolic arrays: Past, Present and Future</strong></p>
 <p><em>Time:</em> 12:20PM - 12:40PM</p>
 <p><em>Speaker:</em> Shashi Gowda</p>
+<p><em>Abstract:</em> In this talk, I will review previous work on expressing array operations in code and the manipulation of that code itself. I will consider trade-offs between loop-based programming and vectorized array operations &#40;as in MATLAB&#41;, then explore newer developments in packages like JAX, Dex, XLA, and finally in Julia&#39;s Symbolics package. We explore how symbolic array operations with relevant metadata allows for optimization opportunities which are unavailable in straight-forward code.</p>
 </li>
 </ul>
-<p>*Abstract:* In this talk, I will review previous work on expressing array operations in code and the manipulation of that code itself. I will consider trade-offs between loop-based programming and vectorized array operations &#40;as in MATLAB&#41;, then explore newer developments in packages like JAX, Dex, XLA, and finally in Julia&#39;s Symbolics package. We explore how symbolic array operations with relevant metadata allows for optimization opportunities which are unavailable in straight-forward code.</p>
-<a id="structuralid"></a>
+<a id="structuralid" class="anchor"></a>
 <ul>
 <li><p><strong>Structural Identifiability Tools in Julia: A Tutorial</strong></p>
 <p><em>Time:</em> 12:40PM - 1:00PM</p>
@@ -205,7 +205,7 @@
 <p><em>Abstract:</em> In this tutorial, we will consider the problem of structural parameter identifiability, a property that can allow us to know in advance whether a model&#39;s parameters can be determined uniquely, up to finitely many values, or not at all. We will consider two Julia solutions to the problem, <a href="https://github.com/alexeyovchinnikov/SIAN-Julia">SIAN.jl</a> and <a href="https://github.com/SciML/StructuralIdentifiability.jl">StructuralIdentifiability.jl</a>. Specifically, we will go over their basic functionality, comparison on several benchmarks, and how they can be used with other SciML packages such as <a href="https://github.com/SciML/ModelingToolkit.jl">ModelingToolkit.jl</a>.</p>
 </li>
 </ul>
-<a id="parallel"></a>
+<a id="parallel" class="anchor"></a>
 <ul>
 <li><p><strong>Parallel Extrapolation Methods for Differential Equations</strong></p>
 <p><em>Time:</em> 1:00PM - 1:20PM</p>
@@ -216,13 +216,13 @@
 </ul>
 <h2 id="early-afternoon_section"><a href="#early-afternoon_section" class="header-anchor">Early-afternoon Section</a></h2>
 <p><strong>Chair:</strong> Ranjan Anantharaman</p>
-<a id="sponsor"></a>
+<a id="sponsor" class="anchor"></a>
 <ul>
 <li><p><strong>Sponsor Talk by Julia Computing</strong></p>
 <p><em>Time:</em> 1:30PM - 1:50PM</p>
 </li>
 </ul>
-<a id="udesbif"></a>
+<a id="udesbif" class="anchor"></a>
 <ul>
 <li><p><strong>Learning measured bifurcation diagrams with UDEs</strong></p>
 <p><em>Time:</em> 1:50PM - 2:10PM</p>
@@ -230,7 +230,7 @@
 <p><em>Abstract:</em> Nonlinear dynamical systems are frequently characterised by their bifurcation diagrams indicating the steady-state response as certain system parameters vary. This often involves multiple solutions corresponding to a single parameter-combination. We use universal differential equations &#40;UDEs&#41; to capture the dynamics accurately in such challenging parameter-domains whereas we also propose a boundary-value-problem-based approach to improve the robustness of the training procedure.</p>
 </li>
 </ul>
-<a id="udegaussian"></a>
+<a id="udegaussian" class="anchor"></a>
 <ul>
 <li><p><strong>Universal Differential Equations with Gaussian Processes</strong></p>
 <p><em>Time:</em> 2:10PM - 2:30PM</p>
@@ -238,7 +238,7 @@
 <p><em>Abstract:</em> In this talk we demonstrate using Gaussian Prosses as a basis for Universal Differential Equations, instead of Neural Networks.  As GPs, given the right underlying kernel, are also Universal Approximators, the combination promises to be similarly powerful and allows additionally for some quantification of the model uncertainty. This work connects the SciML and the JuliaGaussianProcesses ecosystems and enables interesting further research.</p>
 </li>
 </ul>
-<a id="udeepidemiology"></a>
+<a id="udeepidemiology" class="anchor"></a>
 <ul>
 <li><p><strong>Role of Universal Differential Equations in Epidemiology</strong></p>
 <p><em>Time:</em> 2:30PM - 2:50PM</p>
@@ -248,7 +248,7 @@
 </ul>
 <h2 id="late-afternoon_section"><a href="#late-afternoon_section" class="header-anchor">Late-afternoon Section</a></h2>
 <p><strong>Chair:</strong></p>
-<a id="peds"></a>
+<a id="peds" class="anchor"></a>
 <ul>
 <li><p><strong>Physics-enhanced deep surrogates &#40;PEDS&#41; trained end-to-end</strong> &#40;Invited Talk 2&#41;</p>
 <p><em>Time:</em> 3:20PM - 3:40PM</p>
@@ -256,7 +256,7 @@
 <p><em>Abstract:</em> We present a physics-enhanced deep-surrogate approach towards developing fast surrogate models for complex physical systems described by  PDEs  and  similar  models: We propose a combination of a low-fidelity,  explainable physics simulator and a neural network that generates “coarsified” inputs, trained end-to-end to globally match the output of an expensive high-fidelity numerical solver.  The low-fidelity model ensures that governing conservation laws and symmetries are respected by design.</p>
 </li>
 </ul>
-<a id="fractional"></a>
+<a id="fractional" class="anchor"></a>
 <ul>
 <li><p><strong>Fractional Order Computing and Modeling with Julia</strong></p>
 <p><em>Time:</em>  3:40PM - 4:00PM</p>
@@ -264,7 +264,7 @@
 <p><em>Abstract:</em> As the generalization of classical calculus and differential equations, fractional order calculus and differential equations are important areas that SciML has not supported, to provide a comprehensive Differential Equations package, we implemented many powerful FDE solvers. In this SciMLCon, we will talk about the progress we have taken in <a href="https://github.com/SciFracX/FractionalDiffEq.jl">FractionalDiffEq.jl</a> and <a href="https://github.com/SciFracX/FractionalCalculus.jl">FractionalCalculus.jl</a>, how Julia helped us speed up fractional order modeling and computing,  and our plans to connect with SciML. </p>
 </li>
 </ul>
-<a id="neuralplasma"></a>
+<a id="neuralplasma" class="anchor"></a>
 <ul>
 <li><p><strong>Modeling Plasma Physics with NeuralPDE.jl</strong></p>
 <p><em>Time:</em> 4:00PM - 4:20PM</p>
@@ -272,7 +272,7 @@
 <p><em>Abstract:</em> Plasmas – the so-called fourth state of matter – are notoriously difficult to model. The equations that describe it are high dimensional and non-linear. In this talk, I will walk through how I built <a href="https://github.com/killah-t-cell/Plasma.jl">Plasma.jl</a> – an application package that uses <a href="https://github.com/SciML/NeuralPDE.jl">NeuralPDE.jl</a> to simulate plasmas with neural networks. I will share results and what I learned contributing to NeuralPDE, optimizing the solver for a specific application, and creating an intuitive interface.</p>
 </li>
 </ul>
-<a id="mixingimex"></a>
+<a id="mixingimex" class="anchor"></a>
 <ul>
 <li><p><strong>Mixing Implicit and Explicit Deep Learning with Skip DEQs</strong></p>
 <p><em>Time:</em> 4:20PM - 4:40PM</p>
@@ -280,7 +280,7 @@
 <p><em>Abstract:</em> Implicit deep learning architectures separate the definition of a layer from the description of its solution process. While implicit layers allow features such as depth to adapt to new scenarios and inputs automatically, this adaptivity makes its computational expense challenging to predict. In this talk, we present a framework way to simultaneously achieve the robustness of implicit layers while allowing the reduced computational expense of explicit models.</p>
 </li>
 </ul>
-<a id="speeding"></a>
+<a id="speeding" class="anchor"></a>
 <ul>
 <li><p><strong>Speeding up x &#61; A&#92;b with RandomizedPreconditioners.jl</strong></p>
 <p><em>Time:</em> 4:40PM - 5:00PM</p>
@@ -288,7 +288,7 @@
 <p><em>Abstract:</em> We will introduce <a href="https://github.com/tjdiamandis/RandomizedPreconditioners.jl">RandomizedPreconditioners.jl</a>, a package for preconditioning linear systems using randomized numerical linear algebra. Crucially, our preconditioners do not require a priori knowledge of structure present in the linear system, making them especially useful for general-purpose algorithms. We will demonstrate significant speedups of positive semidefinite linear system solves, which appear in many machine learning and optimization problems.</p>
 </li>
 </ul>
-<a id="bifml"></a>
+<a id="bifml" class="anchor"></a>
 <ul>
 <li><p><strong>Bifurcation based machine learning of dynamical systems</strong></p>
 <p><em>Time:</em> 5:00PM - 5:20PM</p>
@@ -296,7 +296,7 @@
 <p><em>Abstract:</em> Combining scientific knowledge and machine learning, known as scientific machine learning &#40;SciML&#41;, can improve the quality of the mathematical model in many cases. This research combines bifurcation theory with machine learning to model parameter-dependent nonlinear dynamical systems. Developed SciML methodology is applied to a real-world system with Hopf bifurcation and a harmonically forced electromagnetic system using Julia SciML packages.</p>
 </li>
 </ul>
-<a id="farewell"></a>
+<a id="farewell" class="anchor"></a>
 <ul>
 <li><p><strong>Farewell and Open Discussion</strong></p>
 <p><em>Time:</em> 5:20PM - 6:00PM</p>
