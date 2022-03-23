@@ -8,6 +8,10 @@ top_subtitle = ""
 +++
 
 ~~~
+<iframe width="100%" height="450px" src="https://www.youtube-nocookie.com/embed/NSIAfccnq-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+
+~~~
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
