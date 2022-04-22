@@ -180,39 +180,39 @@
   <div class="u-vskip-2"></div>
 </div>
 
+<div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+  <div class="content-box purple-box">
+    <h2>SciMLCon 2022 Talks</h2>
+ 
+<div class="embed-responsive embed-responsive-16by9"><div id="player"></div></div>
+    <script type="text/javascript">
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-<div class="row">
-      <div class="col-lg-8 col-md-8 video">
-        <meta name="description" content="Watch what unfolded at SciMLCon 2022 here. The latest developments, optimizations, and features happen right here, at SciMLCon."/>
-
-        <div class="embed-responsive embed-responsive-16by9"><div id="player"></div></div>
-        <script type="text/javascript">
-          var tag = document.createElement('script');
-          tag.src = "https://www.youtube.com/iframe_api";
-          var firstScriptTag = document.getElementsByTagName('script')[0];
-          firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-          var player;
-          function onYouTubeIframeAPIReady() {
-            player = new YT.Player('player', {
-              playerVars: {
-                list: 'PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw',
-                listType: 'playlist',
-              },
-              events: {
-                'onReady': onPlayerReady,
-              }
-            });
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          playerVars: {
+            list: 'PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw',
+            listType: 'playlist',
+          },
+          events: {
+            'onReady': onPlayerReady,
           }
+        });
+      }
 
-          function onPlayerReady(event) {
-            player.cuePlaylist({
-              index: Math.floor(Math.random() * player.getPlaylist().length)
-            });
-          }
-        </script>
-      </div>
-    </div>
+      function onPlayerReady(event) {
+        player.cuePlaylist({
+          index: Math.floor(Math.random() * player.getPlaylist().length)
+        });
+      }
+    </script>
+   </div>
+  <div class="u-vskip-2"></div>
+</div>
 
 
 <!-- END of CONTAINER + MASONRY -->
