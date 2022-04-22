@@ -8,10 +8,6 @@ top_subtitle = ""
 +++
 
 ~~~
-<iframe width="100%" height="550px" src="https://www.youtube-nocookie.com/embed/NSIAfccnq-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-~~~
-
-~~~
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
@@ -32,6 +28,41 @@ SciMLCon is dedicated to providing a positive conference experience for all atte
 \begin{box}{title="Talks and Schedule", color="red"}
   The list of [talks](/2022/talks) and the [schedule](/2022/schedule) are now available. Check them out!
 \end{box}
+
+~~~
+<div class="row">
+      <div class="col-lg-8 col-md-8 video">
+        <meta name="description" content="Watch what unfolded at SciMLCon 2022 here. The latest developments, optimizations, and features happen right here, at SciMLCon."/>
+
+        <div class="embed-responsive embed-responsive-16by9"><div id="player"></div></div>
+        <script type="text/javascript">
+          var tag = document.createElement('script');
+          tag.src = "https://www.youtube.com/iframe_api";
+          var firstScriptTag = document.getElementsByTagName('script')[0];
+          firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+          var player;
+          function onYouTubeIframeAPIReady() {
+            player = new YT.Player('player', {
+              playerVars: {
+                list: 'PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw',
+                listType: 'playlist',
+              },
+              events: {
+                'onReady': onPlayerReady,
+              }
+            });
+          }
+
+          function onPlayerReady(event) {
+            player.cuePlaylist({
+              index: Math.floor(Math.random() * player.getPlaylist().length)
+            });
+          }
+        </script>
+      </div>
+    </div>
+~~~
 
 ~~~
 <!-- END of CONTAINER + MASONRY -->
