@@ -3,7 +3,7 @@ title = "SciMLCon 2022"
 
 # top title + subtitle
 top_title = "SciMLCon 2022"
-top_date = "Online March 23rd, 9-5 EDT"
+top_date = "Was held online March 23rd, 9-5 EDT"
 top_subtitle = ""
 +++
 
